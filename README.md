@@ -1,0 +1,1 @@
+# strict_template_v.1
